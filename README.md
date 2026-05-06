@@ -1,7 +1,7 @@
 
 # Pedro Henrique Martins
 
-### 💻 Software Engineer | SAP Consultant
+💻 Software Engineer | SAP Consultant
 
 
 I'm a software developer passionate about technology, business solutions, and continuous learning.  
@@ -32,24 +32,7 @@ Currently focused on:
 
 ---
 
-### 🧠 SAP & Enterprise Skills
-- SAP S/4HANA
-- SAP MM (Materials Management)
-- SAP EWM (Extended Warehouse Management)
-- SAP QM
-- SAP PP
-- Supply Chain Processes
 
-
-### 🌍 Languages
-- Portuguese: Native  
-- English: Advanced
-- Espanhol Advanced
-
-
-### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/pedro-henrique-martins-45b975362/
-- Email: phmartins357
 <!--
 **PedroHenriqueMartins7/PedroHenriqueMartins7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
