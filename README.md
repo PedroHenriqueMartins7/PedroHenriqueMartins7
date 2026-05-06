@@ -13,7 +13,6 @@ Currently focused on:
 - AI integrations and automation
 - Micro SaaS projects
   
-
 ---
 
 ### 🚀 Languages and Tools
@@ -37,31 +36,20 @@ Currently focused on:
 - SAP S/4HANA
 - SAP MM (Materials Management)
 - SAP EWM (Extended Warehouse Management)
+- SAP QM
+- SAP PP
 - Supply Chain Processes
 
----
-
-### 🤖 Artificial Intelligence
-- AI for automation
-- Prompt Engineering
-- Chatbot development (WhatsApp automation)
-
----
 
 ### 🌍 Languages
 - Portuguese: Native  
-- English: Intermediate (improving daily)
+- English: Advanced
+- Espanhol Advanced
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueMartins7&show_icons=true&theme=dark)
-
----
 
 ### 📫 Contact
-- LinkedIn: (your link here)
-- Email: (your email here)
+- LinkedIn: https://www.linkedin.com/in/pedro-henrique-martins-45b975362/
+- Email: phmartins357
 <!--
 **PedroHenriqueMartins7/PedroHenriqueMartins7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
