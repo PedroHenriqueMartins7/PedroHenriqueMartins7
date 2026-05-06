@@ -1,7 +1,7 @@
 
 # Pedro Henrique Martins
 
-💻 Software Engineer | SAP Consultant
+Software Engineer | SAP Consultant
 
 
 I'm a software developer passionate about technology, business solutions, and continuous learning.  
