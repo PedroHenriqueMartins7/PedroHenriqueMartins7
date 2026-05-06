@@ -1,5 +1,66 @@
 ## Hi there 👋
+# Pedro Henrique Martins
 
+### 💻 Software Engineer | SAP Consultant (in progress)
+
+I'm a software developer passionate about technology, business solutions, and continuous learning.  
+I focus on building clean, scalable, and efficient solutions, combining development skills with SAP and Artificial Intelligence.
+
+Currently focused on:
+- SAP S/4HANA (MM & EWM)
+- Full Stack Development
+- AI integrations and automation
+- Micro SaaS projects
+  
+
+---
+
+### 🚀 Languages and Tools
+
+<p align="left">
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
+
+<!-- Databases / Others -->
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+---
+
+### 🧠 SAP & Enterprise Skills
+- SAP S/4HANA
+- SAP MM (Materials Management)
+- SAP EWM (Extended Warehouse Management)
+- Supply Chain Processes
+
+---
+
+### 🤖 Artificial Intelligence
+- AI for automation
+- Prompt Engineering
+- Chatbot development (WhatsApp automation)
+
+---
+
+### 🌍 Languages
+- Portuguese: Native  
+- English: Intermediate (improving daily)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueMartins7&show_icons=true&theme=dark)
+
+---
+
+### 📫 Contact
+- LinkedIn: (your link here)
+- Email: (your email here)
 <!--
 **PedroHenriqueMartins7/PedroHenriqueMartins7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
